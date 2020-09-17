@@ -1,0 +1,10 @@
+.wallpaper {
+    width: 100vw;
+    height: 100vh;
+}
+
+.gallery-image {
+    width: 30vw;
+    height: 40vh;
+    object-fit: cover;
+}
